@@ -1,12 +1,9 @@
 # LeapMotion_python_app
 Leap Motion App using Python 3.x
 
-### LeapMotionApp.py 
-- This class is just a template with basic functions defined.
-### LeapMotionApp1.py 
-- Shows Frames movement with relevant data on your console.
-### LeapMotionApp2.py 
-- Extension of LeapMotionApp1.py,shows how to get the controls values and positions.
+- LeapMotionApp.py : This class is just a template with basic functions defined.
+- LeapMotionApp1.py: Shows Frames movement with relevant data on your console.
+- LeapMotionApp2.py : Extension of LeapMotionApp1.py,shows how to get the controls values and positions.
 
 
 ## How to run 
